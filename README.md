@@ -36,10 +36,11 @@
 
 ## Tox
 
-* Many different integrations in different languages like
-    * Desktop clients
-    * Mobile clients
+* Many different integrations like
+    * Desktop clients (crossplatform)
+    * Mobile clients (iOS, Android, Sailfish)
     * Bots
+    * e.g. [tox.chat](https://tox.chat/)
     * etc. see [toktok.ltd](https://toktok.ltd/integrations.html)
 
 
