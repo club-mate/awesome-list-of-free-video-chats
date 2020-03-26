@@ -5,6 +5,7 @@
 * Browser-based
 
 * [meet.jit.si](meet.jit.si)
+* [jitsi.fem.tu-ilmenau.de/](https://jitsi.fem.tu-ilmenau.de/)
 
 
 
