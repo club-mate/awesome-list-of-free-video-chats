@@ -34,5 +34,12 @@
 * Works peer-to-peer (does not need a server)
 * [jami.net](https://jami.net/)
 
+## Tox
+
+* Many different integrations in different languages like
+    * Desktop clients
+    * Mobile clients
+    * Bots
+    * etc. see [toktok.ltd](https://toktok.ltd/integrations.html)
 
 
