@@ -41,6 +41,6 @@
     * Mobile clients (iOS, Android, Sailfish)
     * Bots
     * e.g. [tox.chat](https://tox.chat/)
-    * etc. see [toktok.ltd](https://toktok.ltd/integrations.html)
+    * etc. see [toktok.ltd/integrations](https://toktok.ltd/integrations.html)
 
 
